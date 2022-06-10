@@ -1,5 +1,5 @@
-# Digitall_Banksters
-Repo in Moscow CityHack 2022 Hackaton. Team Digital Banksters
+# django-single-page
+This is a very simple implementation of single-page functionality with django and javascript's fetch API.
 Glad to see you here! 
 
 ## installation from scratch
