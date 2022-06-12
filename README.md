@@ -1,6 +1,6 @@
 # Репозиторий команды Digital Banksters на Moscow City Hack 2022
 
-![](https://i.ibb.co/vBXBC77/photo-2022-06-12-21-22-13.jpg)
+<a href="https://ibb.co/jwDMSgR"><img src="https://i.ibb.co/GMR2qcT/photo-2022-06-13-01-36-29.jpg" alt="photo-2022-06-13-01-36-29" border="0"></a>
 # 0. Структура репозитория
 Весь код для парсинга содержится в `parsing`, в котором имеется три подкаталога:
 `vk` - парсинг vk.com
