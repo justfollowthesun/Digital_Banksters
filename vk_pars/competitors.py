@@ -4,7 +4,7 @@ import requests
 from test_data import *
 
 days = 70
-
+# При возникновении ошибки KeyError вам нужно зайти в config и получить новый access token согласно инструкциям в файле
 def times(days:int) -> int:
     '''
     Преобразует количетсво дней в секунды (unixtime)
