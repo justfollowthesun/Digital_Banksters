@@ -1,7 +1,7 @@
 from vk_pars.config import *
 import requests
 
-
+# При возникновении ошибки KeyError вам нужно зайти в config и получить новый access token согласно инструкциям в файле
 
 def gropus(kword: str, count: int, city_id:int, acess_token=access_token) -> list:
     '''
