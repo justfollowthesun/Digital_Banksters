@@ -1,0 +1,54 @@
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.5">
+  <title>Sign In</title>
+  <link href="assets/bootstrap.css" rel="stylesheet" type="text/css">
+  <link href="assets/custom.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <div id="big-app-container">
+    <div class="row banner">
+      <div class="col-sm-10 banner-text">
+        <h5>Digital Banksters</h5>
+        <h6 class="d-none d-md-block">Estimation of product recommendations</h6>
+      </div>
+    </div>
+    
+
+    <form action="/main" method="POST">
+        <div class="row form-group">
+          <label class="col-sm-4">URL (VK)</label>
+          <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+          <input class="col-sm-6" name="URL">
+        </div>
+        <button type="submit">Send</button>
+    </form>
+    <div class="row form-group">
+        {% if product_one %}
+        <p>{{ product_one }}</p>
+        {% endif %}
+    </div>
+    <div class="row form-group">
+      {% if product_two %}
+      <p>{{ product_two }}</p>
+      {% endif %}
+    </div>
+    <div class="row form-group">
+      {% if product_three %}
+      <p>{{ product_three }}</p>
+      {% endif %}
+    </div>
+    <div class="row form-group">
+      {% if product_four %}
+      <p>{{ product_four }}</p>
+      {% endif %}
+    </div>
+
+
+  </div>
+</body>
+
+</html>

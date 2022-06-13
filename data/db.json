@@ -1,0 +1,97 @@
+{
+    "URLs": {
+        "1": {
+            "URL": "test"
+        },
+        "10": {
+            "URL": ""
+        },
+        "11": {
+            "URL": "'https://t.me/sberbank'"
+        },
+        "12": {
+            "URL": "test"
+        },
+        "13": {
+            "URL": "'https://t.me/sberbank'"
+        },
+        "14": {
+            "URL": "'https://t.me/sberbank'"
+        },
+        "15": {
+            "URL": "'https://t.me/sberbank'"
+        },
+        "16": {
+            "URL": "'https://t.me/sberbank'"
+        },
+        "17": {
+            "URL": "https://t.me/sberbank"
+        },
+        "18": {
+            "URL": "https://t.me/sberbank"
+        },
+        "19": {
+            "URL": "https://t.me/sberbank"
+        },
+        "2": {
+            "URL": "test"
+        },
+        "20": {
+            "URL": "https://vk.com/optar"
+        },
+        "21": {
+            "URL": "https://vk.com/optar"
+        },
+        "22": {
+            "URL": "https://vk.com/optar"
+        },
+        "23": {
+            "URL": "https://vk.com/optar"
+        },
+        "24": {
+            "URL": "https://vk.com/optar"
+        },
+        "25": {
+            "URL": "https://vk.com/optar"
+        },
+        "3": {
+            "URL": "test"
+        },
+        "4": {
+            "URL": "test"
+        },
+        "5": {
+            "URL": "test"
+        },
+        "6": {
+            "URL": "test"
+        },
+        "7": {
+            "URL": "test"
+        },
+        "8": {
+            "URL": "test"
+        },
+        "9": {
+            "URL": "test"
+        }
+    },
+    "_default": {},
+    "users": {
+        "1": {
+            "email": "qqq",
+            "name": "qqq",
+            "password": "qqq"
+        },
+        "2": {
+            "email": "www",
+            "name": "qqqq",
+            "password": "www"
+        },
+        "3": {
+            "email": "zirk-art@yandex.ru",
+            "name": "Artemy",
+            "password": "irqzirk188art"
+        }
+    }
+}
