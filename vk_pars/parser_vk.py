@@ -13,6 +13,10 @@ products = {
     'Кредит' : ['деньги', 'успех', 'роскошь']
 }
 
+''''
+ПРИ ВОЗНИКНОВЕНИИ ОШИБКИ KeyError вам нужно зайти в config и получить новый access токен согласно инструкциям в файле
+'''
+
 
 
 session = vk.Session(access_token=access_token)
@@ -84,8 +88,6 @@ def product_recommendations(url:str, news_num:int) -> dict:
     scores = product_scores(news_list, products)
     return scores
 
-
-# product_recommendations('https://vk.com/optar', 10000)
 
 
 
