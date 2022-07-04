@@ -1,6 +1,3 @@
-# Репозиторий команды Digital Banksters на Moscow City Hack 2022
-
-<a href="https://ibb.co/jwDMSgR"><img src="https://i.ibb.co/GMR2qcT/photo-2022-06-13-01-36-29.jpg" alt="photo-2022-06-13-01-36-29" border="0"></a>
 # 0. Структура репозитория
 Весь код для парсинга содержится в следующих каталогах:
 
